@@ -1,0 +1,12 @@
+[submodule "otservbr-global-datapack"]
+	path = otservbr-global-datapack
+	url = git@github.com:silic0nalph4/otservbr-global-datapack.git
+[submodule "canary"]
+	path = canary
+	url = git@github.com:silic0nalph4/canary.git
+[submodule "myaac"]
+	path = myaac
+	url = git@github.com:silic0nalph4/myaac.git
+[submodule "myaac-tibia12-login"]
+	path = myaac-tibia12-login
+	url = git@github.com:silic0nalph4/myaac-tibia12-login.git
